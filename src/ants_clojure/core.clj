@@ -16,19 +16,28 @@
 (defn create-ants []
   (for [i (range ant-count)]
     {:x (rand-int width)
-     :y (rand-int height)}))
+     :y (rand-int height)
+     :color Color/BLACK}))
 
 (defn draw-ants! [context]
   (.clearRect context 0 0 width height)
   (doseq [ant @ants]
-    (.setFill context Color/BLACK)
+    (.setFill context (:color ant))
     (.fillOval context (:x ant) (:y ant) 5 5)))
 
 (defn random-step []
   (- (* 2 (rand)) 1))
 
+;(defn aggravate-ant [ants]
+;  (let [ants
+;                  (filter (fn [test-x test-y]
+;                     (or
+;                        (< (Math/abs (- test-x (:x ant))) 10)
+;                        (< (Math/abs (- test-y (:y ant)))))
+;                          (:x ant) (:y ant)))]))
+
+
 (defn move-ant [ant]
-  (Thread/sleep 1)
   (assoc ant
     :x (+ (random-step) (:x ant))
     :y (+ (random-step) (:y ant))))
