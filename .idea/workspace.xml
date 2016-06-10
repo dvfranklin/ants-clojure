@@ -2,61 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4baf957-9beb-43b3-9827-ab594a66823a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__cider_cider_nrepl_0_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clj_antlr_0_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__cljs_tooling_0_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__clojure_complete_0_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__com_yahoo_platform_yui_yuicompressor_2_4_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__compliment_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__fipp_0_6_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__garden_1_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__grimradical_clj_semver_0_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__hiccup_1_0_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_class_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_class_checks_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_class_inheritance_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_checks_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_error_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_hash_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_primitives_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_common_string_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_data_map_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_namespace_import_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_protocol_string_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__im_chit_hara_reflect_2_2_15.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__instaparse_1_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__io_aviso_pretty_0_1_24.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__mvxcvi_arrangement_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__mvxcvi_puget_1_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__mvxcvi_whidbey_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_abego_treelayout_org_abego_treelayout_core_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_antlr_ST4_4_0_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_antlr_antlr4_4_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_antlr_antlr4_annotations_4_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_antlr_antlr4_runtime_4_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_antlr_antlr_runtime_3_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojars_brenton_google_diff_match_patch_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_8_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_rrb_vector_0_0_11.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_data_codec_0_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_java_classpath_0_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_namespace_0_2_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_nrepl_0_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_tools_trace_0_7_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__org_tcrawley_dynapath_0_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__rhino_js_1_6R7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__robert_hooke_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__venantius_glow_0_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Leiningen__venantius_ultra_0_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ants-clojure.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/main.fxml" afterPath="$PROJECT_DIR$/resources/main.fxml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$_main.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$_main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$_start.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$_start.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858$fn__2859$fn__2860.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858$fn__2859$fn__2860.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858$fn__2859.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858$fn__2859.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2854__2858.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860$fn__2861$fn__2862.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860$fn__2861$fn__2862.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860$fn__2861.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860$fn__2861.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants$iter__2856__2860.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$create_ants.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$draw_ants_BANG_.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$draw_ants_BANG_.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$fn__2852.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$fn__2852.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$fn__2854.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$fn__2854.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$fps.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$fps.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$loading__5569__auto____2850.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$loading__5569__auto____2850.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$loading__5569__auto____2852.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$loading__5569__auto____2852.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$move_ant.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$move_ant.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core$random_step.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core$random_step.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/ants_clojure/core__init.class" afterPath="$PROJECT_DIR$/target/classes/ants_clojure/core__init.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/replstate.xml" afterPath="$PROJECT_DIR$/.idea/replstate.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.nrepl-port" afterPath="$PROJECT_DIR$/.nrepl-port" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ants_clojure/core.clj" afterPath="$PROJECT_DIR$/src/ants_clojure/core.clj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/ants-clojure/ants-clojure/pom.properties" afterPath="$PROJECT_DIR$/target/classes/META-INF/maven/ants-clojure/ants-clojure/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/repl-port" afterPath="$PROJECT_DIR$/target/repl-port" />
     </list>
     <ignored path="ants-clojure.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,8 +63,8 @@
       <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ants_clojure/core.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-293">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="300">
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -220,8 +189,8 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,10 +200,10 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AntsJava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
-  <component name="ReplState" timestamp="1465507901043">{:repl-history {:ide [], :local [&quot;(def ant {:x 10 :y 10 :color Color/BLACK})&quot; &quot;ant&quot; &quot;(:x ant)&quot;], :remote []}}</component>
+  <component name="ReplState" timestamp="1465570149334">{:repl-history {:ide [], :local [&quot;(def ant {:x 10 :y 10 :color Color/BLACK})&quot; &quot;ant&quot; &quot;(:x ant)&quot; &quot;(for [ant ants]\n  (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n      (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))&quot; &quot;(filter\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))ants)&quot; &quot;(filter true?\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))) ants)&quot; &quot;(fn []\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;(fn []\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))) ants)&quot; &quot;(filter\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))) ants)&quot; &quot;(filter (fn [ants]\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))) ants))&quot; &quot;(filter (fn [ants]\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (fn []\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;\n(fn []\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;\n\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))&quot; &quot;\n(set\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;\n(contains? true\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;\n(contains?\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;\n(contains?\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))\n  true)&quot; &quot;\n(vec\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))&quot; &quot;(filter true\n  (vec\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter \n  (vec\n  (for [ant ants]\n    (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n        (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (true)\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (= 1 1)\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (1)\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (fn [] true)\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(filter (fn [x] true)\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(frequencies\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))))&quot; &quot;(get frequencies\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) :true)&quot; &quot;(get frequencies\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true)&quot; &quot;(get (frequencies\n  (vec\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10))))) true)&quot; &quot;(get (frequencies\n\n    (for [ant ants]\n      (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n          (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true)&quot; &quot;(def ant-array (create-ants))&quot; &quot;(if (&lt; 1 (count (get (frequencies\n                       (for [ant ant-array]\n                         (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n                             (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true)))\n  (assoc test-ant :color Color/RED))&quot; &quot;(if (&lt; 1 (get (frequencies\n                       (for [ant ant-array]\n                         (or (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n                             (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true))\n  (assoc test-ant :color Color/RED))&quot; &quot;(let [ant-array ants])&quot; &quot;(let [ant-array ants] (list (ant-array))&quot; &quot;(let [ant-array ants] (list ant-array))&quot; &quot;(let [ant-array @ants] ant-array)&quot; &quot;(def ants (atom nil))&quot; &quot;(reset! ants (create-ants))&quot; &quot;(let [ant-array ants] ant-array)&quot; &quot;(def test-ant (get ants 1))&quot; &quot;(let [ant-array   (seq @ants)]\n  (if (&gt; 1 (get (frequencies\n                  (for [ant ant-array]\n                    (and (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n                         (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true))\n    (assoc test-ant :color Color/RED)\n    (assoc test-ant :color Color/BLACK)))&quot; &quot;(def test-ant (first ants))&quot; &quot;(def ants (create-ants))&quot; &quot;(def ant-array (seq @ants))&quot; &quot;(deref ants)&quot; &quot;(deref @ants)&quot; &quot;@ants&quot; &quot;(def ants (atom (create-ants)))&quot; &quot;ants&quot; &quot;(def ant-array ants)&quot; &quot;(def ant-array @ants)&quot; &quot;ant-array&quot; &quot;(def test-ant (first ant-array))&quot; &quot;test-ant&quot; &quot;(get (frequencies\n       (for [ant ant-array]\n         (and (&lt; (Math/abs (- (:x ant) (:x test-ant))) 10)\n              (&lt; (Math/abs (- (:y ant) (:y test-ant))) 10)))) true)&quot;], :remote []}}</component>
   <component name="RunManager" selected="Leiningen.run -main">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -706,12 +675,13 @@
       <option name="presentableId" value="Default" />
       <updated>1465480295041</updated>
       <workItem from="1465480297743" duration="1835000" />
-      <workItem from="1465482528902" duration="5818000" />
+      <workItem from="1465482528902" duration="13181000" />
+      <workItem from="1465568288550" duration="1513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7653000" />
+    <option name="totallyTimeSpent" value="16529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="797" extended-state="6" />
@@ -726,7 +696,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="REPL" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Leiningen" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -790,8 +760,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ants_clojure/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-293">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/main.fxml">
+      <provider editor-type-id="JavaFX-Scene-Builder">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ants_clojure/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
           <folding />
         </state>
       </provider>

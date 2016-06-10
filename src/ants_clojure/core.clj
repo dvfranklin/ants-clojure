@@ -4,13 +4,14 @@
            [javafx.fxml FXMLLoader]
            [javafx.scene Scene]
            [javafx.scene.paint Color]
-           [javafx.animation AnimationTimer])
+           [javafx.animation AnimationTimer]
+           [java.lang.Math])
   (:gen-class :extends javafx.application.Application))
 
 (def width 800)
 (def height 600)
 (def ant-count 100)
-(def ants (atom nil))
+(def ants (atom []))
 (def last-timestamp (atom 0))
 
 (defn create-ants []
@@ -28,13 +29,14 @@
 (defn random-step []
   (- (* 2 (rand)) 1))
 
-;(defn aggravate-ant [ants]
-;  (let [ants
-;                  (filter (fn [test-x test-y]
-;                     (or
-;                        (< (Math/abs (- test-x (:x ant))) 10)
-;                        (< (Math/abs (- test-y (:y ant)))))
-;                          (:x ant) (:y ant)))]))
+(defn aggravate-ant [test-ant]
+  (let [ant-array   @ants]
+  (if (= 1 (get (frequencies
+                         (for [ant ant-array]
+                           (and (< (Math/abs (- (:x ant) (:x test-ant))) 10)
+                                (< (Math/abs (- (:y ant) (:y test-ant))) 10)))) true))
+        (assoc test-ant :color Color/BLACK)
+        (assoc test-ant :color Color/YELLOW))))
 
 
 (defn move-ant [ant]
@@ -57,7 +59,7 @@
                 (handle [now]
                   (.setText fps-label (str (fps now)))
                   (reset! last-timestamp now)
-                  (reset! ants (pmap move-ant @ants))
+                  (reset! ants (doall (pmap aggravate-ant (pmap move-ant (deref ants)))))
                   (draw-ants! context)))]
     (reset! ants (create-ants))
     (.setTitle stage "Ants")
